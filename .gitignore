@@ -19,7 +19,7 @@ pnpm-debug.log*
 .env.production
 
 # content repository (independent mode)
-/content/
+# /content/
 *.backup
 
 # Large zip files
